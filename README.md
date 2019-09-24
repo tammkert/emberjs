@@ -1,5 +1,7 @@
 # Ember.js - Kert Tamm 2.tunnitöö
 
+<img src="naide1.png" width="350" title="projektipilt1">
+
 GITHUB demo link: https://github.com/rihon/ember
 
 powershell lahti adminina
