@@ -7,6 +7,10 @@ powershell lahti adminina
 terminalis:
 kontrolliks **npm**, kui näitab et olemas siis edasi
 
+probleemide vältimiseks installida värskeim npm versioon
+
+**npm install npm@latest -g**
+
 **npm install -g ember-cli**
 
 **ember new rentals**
