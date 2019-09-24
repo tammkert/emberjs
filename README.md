@@ -1,4 +1,4 @@
-# emberjs
+# Ember.js - Kert Tamm 2.tunnitöö
 
 powershell lahti adminina
 
