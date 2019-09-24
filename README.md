@@ -1,5 +1,7 @@
 # Ember.js - Kert Tamm 2.tunnitöö
 
+GITHUB demo link: https://github.com/rihon/ember
+
 powershell lahti adminina
 
 terminalis:
